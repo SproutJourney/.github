@@ -68,11 +68,7 @@ This repository includes:
 - Pitch video
 - Framework document
 - Voice testing declarations
-
-⚠️ **Codebase is under active development**  
-Due to its modular nature and sensitive components (e.g., moderation filters, agent weights), full code access is currently private.
-
-📬 *For access or evaluation, feel free to reach out directly.*
+- Codebase
 
 ---
 
